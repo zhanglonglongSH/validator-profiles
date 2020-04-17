@@ -6,7 +6,7 @@ Providers have not been vetted or endorsed by the core development team.
 Use your judgement in selecting a provider.**
 
 The following staking pools and node infrastructure providers support the NuCypher Network (alphabetical order):
-* [Node Example](https://example.com)
+* [Node Example](./profiles/example)
 
 ## How to add your profile
 1. Fork this repo and create a new directory inside of the `validators` folder.
