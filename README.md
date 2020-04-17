@@ -9,7 +9,7 @@ The following staking pools and node infrastructure providers support the NuCyph
 * [Node Example](./profiles/example)
 
 ## How to add your profile
-1. Fork this repo and create a new directory inside of the `validators` folder.
+1. Fork this repo and create a new directory inside of the `profiles` folder.
 2. Name the new directory `<your-validator-name>`.
 3. Copy both files (`README.md` and `profile.json`) from `templates` into your directory.
 4. Add your information to both files as appropriate (deleting any unused fields from `profile.json`).
