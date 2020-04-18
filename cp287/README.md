@@ -11,7 +11,7 @@ We are a team of enthusiasts who shares useful information on our forum https://
 Small validators more often devote more time to the client, win in the absence of bureaucracy, but perhaps less protected and stable.
 We believe that small validators must also exist in space and are ready to support other small validators and their differentiation.
 
-56.40.101
+56.40.101 r.r
 
 
 ## Team
