@@ -1,6 +1,7 @@
 ---
 Name: block42
 Email: office@block42.tech
+Telegram: @block42_nucypher
 ---
 
 # block42
@@ -25,9 +26,7 @@ We run (validator) nodes on multiple networks and have therefore gathered a lot 
 
 ## Contact Us
 
-Have questions? You can reach us:
-
-- Email: office@block42.tech
+Have questions? Reach out to us!
 
 ### Website
 
