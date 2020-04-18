@@ -34,5 +34,6 @@ Have questions? You cant reach us:
 
 ### Website
 
-https://cp0x.com
-https://cp0x.com/topic/96-nucypher-decentralizovannoe-shifrovanie-dannyh
+Forum: https://cp0x.com
+
+NuCypher topic: https://cp0x.com/topic/96-nucypher-decentralizovannoe-shifrovanie-dannyh
