@@ -1,6 +1,6 @@
 ---
-Name: <IZ0>
-Email: <alexandru.ticea@izo.ro>
+Name: IZ0
+Email: alexandru.ticea@izo.ro
 Telegram: @alexticea
 Discord: @alexticea#3560
 ---
