@@ -18,7 +18,7 @@ We operate validators on various projects. Token holders can stake with us to he
 
 | Name             | Role    | Description                  |
 | ---------------  | ------- | ---------------------------- |
-| Alexandru Ticea  | Founder |          www.izo.ro          |
+| Alexandru Ticea  | Founder |         www.izo.ro           |
 
 
 # Our Architecture
@@ -47,6 +47,6 @@ Have questions? You can reach us:
 
 ### Website
 
-<www.izo.ro>
+_www.izo.ro_
 
 
