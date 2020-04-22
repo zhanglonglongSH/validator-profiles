@@ -32,11 +32,10 @@ FRESHNU runs on bare metal in a SSAE16 SOC2 certified Tier 3 datacenter with geo
 
 ## Ecosystem Contributions
 
-We are active members on NUcypher's community:
-
-- We have been active members of the NUcypher discord since before the incentivized testnet.
-- We ran the first external NUcypher node during the testnet.
-- We are provide feedback to the team on a regular basis.
+- Active members of the NUcypher discord since before the incentivized testnet.
+- Ran the first external NUcypher node during the testnet.
+- Regularly provide feedback to the team.
+- Completed all phases of the CASI testnet.
 
 ## Contact Us
 
