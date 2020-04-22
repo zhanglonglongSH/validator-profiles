@@ -43,7 +43,7 @@ Bison Trails runs validators and full nodes across many blockchain networks, run
 Bison Trails has a proven track record with NuCypher; we managed [Ursula Worker nodes since the first federated testnet](https://blog.nucypher.com/the-final-countdown/) in November, 2018. We continue to collaborate closely with the NuCypher development team on testing, protocol upgrades, and protocol documentation.
 
 
-Bison Trails was an active participant in the Cassandra testnet challenges and is running the node with the most staked NU tokens on the network outside of the NuCypher team. We also completed all phases of CASI (Come and Stake It, NuCypher’s Incentivized Testnet).
+Bison Trails was an active participant in the Cassandra testnet challenges, running the #2 and #1 most staked nodes on the `cassandra` and `gemini` networks respectively. We also completed all phases of CASI (Come and Stake It, NuCypher’s Incentivized Testnet).
 
 
 We have established lines of communication with the NuCypher team, and provide economic and technical feedback on an on-going basis. For example, [feedback](https://github.com/nucypher/nucypher/issues/1674#issuecomment-590564457) on smart contract delegation, or the scoping that went into preventing [unbonded Ursula crashing](https://github.com/nucypher/nucypher/pull/1697). Our Protocol Specialist, Viktor Bunin, helped the team [think through the WorkLock](https://blog.nucypher.com/the-worklock/) and provided feedback on network dynamics, economic policy, slashing penalties, and stake pooling over the past year.
