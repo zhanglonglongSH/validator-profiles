@@ -15,6 +15,7 @@ A brief description of your core team and key personnel.
 | Name        | Role              | Description |
 | ----------- | ----------------- | ----------- |
 | SongSong Xu | CEO               | Thu Phd     |
+| ChenHao Wu  | CTO               | Thu Bachelor|
 
 ## Our Architecture
 
