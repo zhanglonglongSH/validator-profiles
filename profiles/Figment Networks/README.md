@@ -2,6 +2,7 @@
 Name: Figment Networks
 Email: contact@figment.network
 Telegram: @claymenzel
+Discord: @claymenzel#0569
 ---
 
 # Figment Networks
