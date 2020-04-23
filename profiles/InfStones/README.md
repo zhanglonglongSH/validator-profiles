@@ -1,29 +1,21 @@
 ---
-Name: <name>
-Email: <your-email>
-Telegram: @your_telegram_handle
-WeChat: @your_wechat_handle
-Discord: @your_discord_handle
+Name: InfStones
+Email: contact@infinitystones.io
+Telegram: https://t.me/infstones
+WeChat: @InfStones
+Discord: @infinitystones#2856
 ---
 
-NOTE: This is just a suggested template, modify it as you see fit.
+# InfStones
 
-# <name>
-
-A brief description of your validator... (what differentiates you, why people should do business with you, etc.).
-
-## Team
-
-A brief description of your core team and key personnel.
-
-| Name             | Role    | Description                  |
-| ---------------  | ------- | ---------------------------- |
-| Satoshi Nakamoto | Founder | Creator of Bitcoin           |
-| Vitalik Buterin  | CTO     | Creator of Ethereum          |
+InfStones is a silicon valley based technology company that specializes in cloud infrastructure and platform as code services for blockchains. We have been involved in building an infrastructure platform for PoS/DPoS blockchians since the early days of the consensus. The company has amassed expertise in operating block producing infrastructure for many high-performance blockchains such as EOS and TRON. 
+We are committed to participate in the NuCypher ecosystem for the long term. Our infrastructe was designed and implemented with the needs of multi-billions dollar entities in mind. We are providing reliable infrastructure with high availability for the NuCypher community to make privacy-preserving blockchain applications a reality
 
 ## Our Architecture
 
-Overview of your architecture and security practices. Why should people feel comfortable delegating to you?
+InfStones provides a multi-cloud, multi-region platform to effectively and efficiently managin hunderds of nodes across over 30 different blockchains. Our system is capble of launch a NuCypher nodes in minutes with the full suit of services, including monitoring, alerting, upgrading, and recovering enabled right from the start. Automation is a cord part of our platform and all nodes launched on our platform are cared for 24/7.
+
+InfStones operatess validators and full nodes across over 30 different blockchains. Our automation solution has been stress tested and proven by the real market production environment. 
 
 ## Ecosystem Contributions
 
@@ -37,13 +29,10 @@ Overview of any contributions to the NuCypher ecosystem and/or community, if rel
 
 Have questions? You can reach us:
 
-- Email: ...
-- Telegram: ...
-- WeChat: ...
-- Discord: ...
+- Email: contact@infinitystones.io
+- Discord: @infinitystones#2856
 
 ### Website
 
-<your-website>
-<your-website-direct-link-to-nucypher-page>
+https://infstones.io
 
