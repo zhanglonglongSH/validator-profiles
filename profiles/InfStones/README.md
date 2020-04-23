@@ -19,11 +19,9 @@ InfStones operatess validators and full nodes across over 30 different blockchai
 
 ## Ecosystem Contributions
 
-Overview of any contributions to the NuCypher ecosystem and/or community, if relevant.
+InfStones' team has been involved withe the NuCypher team since its early days of the development and a long-time active community member on discord. We have been working with the NuCypher team closely to provide the industry leading staking services for the whole community.
 
-- Built node monitoring tools
-- Long-time active community member on discord
-- Built X application on the NuCypher network
+InfStones was an active participants in NuCypher testnets and successfully completed all phases of the CASI (Come and Stake It, NuCypher’s Incentivized Testnet). We have been assisting memebers of the NuCypher ecosystem to understand the protocol and untimately take part in the network. Our goal is to become a integral part of the NuCypher ecosystem and gorw with it together. 
 
 ## Contact Us
 
