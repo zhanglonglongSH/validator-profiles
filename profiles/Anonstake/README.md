@@ -18,7 +18,7 @@ Our team is passionate about blockchain and IT technology and we consist of a mi
 
 ## Our Architecture
 
-We are using several different cloud operators for Sentry nodes and smaller projects in combination with local high availability server configuration (Tier 4 Datacenter, with climate control, cooling, power/network solutions) and environment which is monitored and scaled according to capacity demands. This includes data replication and usage of HSM when supported. We ensure a highly secured, resilient and reliable network.
+We are using several different cloud operators for Sentry nodes and smaller projects in combination with local high availability server configuration (Tier 4 Datacenters) and environment which is monitored and scaled according to capacity demands. This includes data replication and usage of HSM when supported. We ensure a highly secured, resilient and reliable network.
 
 
 ## Ecosystem Contributions
