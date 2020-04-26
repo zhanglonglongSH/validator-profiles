@@ -2,7 +2,7 @@
 Name: Anonstake
 Email: support@anonstake.com
 Telegram: https://t.me/anonstakecom
-Website: 
+Website: https://anonstake.com
 ---
 
 # Anonstake 
