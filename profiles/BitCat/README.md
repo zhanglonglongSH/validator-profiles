@@ -9,8 +9,6 @@ A maverick cat. Secure and stable validator service from China team.
 
 ## Team
 
-A brief description of your core team and key personnel.
-
 | Name        | Role              |
 | ----------- | -----------------  |
 | San Xia      | Sweeping monkl    |
