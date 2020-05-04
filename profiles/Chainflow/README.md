@@ -25,7 +25,31 @@ A brief description of your core team and key personnel.
 
 ## Our Architecture
 
-Overview of your architecture and security practices. Why should people feel comfortable delegating to you?
+There are a few important things to know from the start. The first is that I'm bootstrapping the Chainflow Cosmos Validator. This means I'm paying for everything from my own pocket. I haven't raised any outside funds to cover CAPEX or OPEX costs.
+
+Freedom and independence are core values of the validator's (and my!) operation. Not being accountable to investors helps preserve these values.
+
+Since I started validating in October 2017, I've worked to strike a balance between operational excellence and cost. This means I've scaled the validator network to meet operational needs as they emerge.
+
+It also allows me to maintain competitive fee levels. My intention is to continue this approach into the future.
+
+This architecture feels performant, stable and secure, based on current network conditions. That said, I'm operating within a cycle of constant improvement. 
+
+This architecture draws on my 20+ years of experience designing large, global and mission critical network and data center architectures. I've done this for large telco's, government security agencies and commercial financial institutions. Now I'm applying what I learned to running the Chainflow NuCypher Validator.
+
+In describing the architecture, I again am trying to strike a beneficial balance. This balance is between providing transparency, while not compromising operational security. Past experience working where I have still leaves me a bit paranoid about the latter 😅
+
+The Cosmos Chainflow Validator architecture runs on a VPS architecture. The VPS provider is a well-respected provider of high performance computing platforms, configured with appropriate specs I've refined since early 2019.
+
+The network is spread across multiple geographic locations. The systems sit in data centers operated by companies like Equinix and Level(3).
+
+External and internal connectivity is as fast as you'd expect running in data centers like this.  VPNs secure all connections, other than the required public connections to public sentries.
+
+Firewalls and DDoS protection are running on all servers, among other security measures. Regular back-ups run on key systems.
+
+The Chainflow Cosmos Validator Architecture runs on open source software. I default to using open source tools when a viable alternative exists.
+
+Monitoring, etc.
 
 ## Ecosystem Contributions
 
@@ -49,4 +73,4 @@ Have questions? You can reach us:
 
 ### Website
 
-chainflow.io/staking
+https://chainflow.io/staking
