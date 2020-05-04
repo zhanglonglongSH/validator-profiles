@@ -5,13 +5,11 @@ Telegram: @chris_remus
 Discord: @chris-chainflow
 ---
 
-NOTE: This is just a suggested template, modify it as you see fit.
-
 # Chainflow
 
 Chainflow is a dedicated, capable and independent validator operator. Our hope is that decentralization results in a fairer distribution of power, wealth, and opportunity. We believe that smaller operators like ourselves are critical to decentralizing stake distribution.
 
-We've operated validators since October 2017 and have been involved with NuCypher since the first testnets in early 2019. We also helped the NuCypher team develop the CASI incentivized testnet.
+We've operated validators since October 2017. We've been involved with NuCypher since the first testnets in early 2019. We also helped the NuCypher team develop their CASI incentivized testnet.
 
 You can learn more about Chainflow [here](https://chainflow.io/chainflow-staking-systems/).
 
@@ -33,20 +31,22 @@ Overview of your architecture and security practices. Why should people feel com
 
 Overview of any contributions to the NuCypher ecosystem and/or community, if relevant.
 
-- Built node monitoring tools
-- Long-time active community member on discord
-- Built X application on the NuCypher network
+- Long-time active community member on Discord, since early 2019)
+- Testnet participant since early 2019
+- Helped the NuCypher team [design the CASI incentivized testnet](https://twitter.com/NuCypher/status/1220743120142446594?s=20)
+
+"It was a pleasure working with @cjremus on the design of CASI's incentive structure. He brings a valuable perspective and rich experience to the table when it comes to the design of incentivized testnets that work for both projects and participants." 
+
+*MacLane Wilkison, Co-Founder and CEO, NuCypher*
 
 ## Contact Us
 
 Have questions? You can reach us:
 
-- Email: ...
-- Telegram: ...
-- WeChat: ...
-- Discord: ...
+- Email: hello@chainflow.io
+- Telegram: @chris_remus
+- Discord: @chris-chainflow
 
 ### Website
 
-<your-website>
-<your-website-direct-link-to-nucypher-page>
+chainflow.io/staking
