@@ -1,8 +1,10 @@
 {
+  "name": "Stakin",
   "contact": {
     "email": "hello@stakin.com",
     "telegram": "https://t.me/stakin",
     "keybase": "https://keybase.io/stakin",
     "twitter": "https://twitter.com/stakinofficial"
-  }
+  },
+  "website": "http://stakin.com/"
 }
