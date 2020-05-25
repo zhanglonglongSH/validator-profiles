@@ -1,3 +1,10 @@
+---
+Name: Stakefish
+Email: hi@stake.fish
+Telegram: @stakedotfish
+Wechat: @stakefish
+---
+
 # stakefish
 We are the leading staking service provider for blockchain projects. Join our community to help secure networks and earn rewards. We know staking.
 ## Team
