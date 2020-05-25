@@ -1,5 +1,5 @@
 ---
-Name: Stakefish
+Name: stakefish
 Email: hi@stake.fish
 Telegram: @stakedotfish
 Wechat: @stakefish
