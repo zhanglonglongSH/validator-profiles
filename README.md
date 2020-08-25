@@ -20,6 +20,7 @@ The following staking pools and node infrastructure providers support the NuCyph
 * [DELIGHT](./profiles/DELIGHT)
 * [Dokia Capital](./profiles/Dokia%20Capital)
 * [Figment Networks](./profiles/Figment%20Networks)
+* [4BLOCK.TEAM](./profiles/4BLOCK.TEAM)
 * [freshnu](./profiles/freshnu)
 * [HashQuark](./profiles/HashQuark)
 * [InfStones](./profiles/InfStones)
