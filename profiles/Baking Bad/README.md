@@ -1,7 +1,7 @@
 ---
 Name: Baking Bad
 Email: hello@baking-bad.org
-Telegram: @baking_bad_chat
+Telegram: @MisterWalker
 ---
 
 # Baking Bad
@@ -24,8 +24,8 @@ The whole team can be found  [here](https://baking-bad.org/docs)
 ## Our projects
 
  - [Baking Bad](https://baking-bad.org) - Audit & Rating of Tezos bakers. Also provides API for access public bakers data.
- - [Better Call Dev](https://github.com/baking-bad/better-call-dev) - Smart contract meta-explorer for Tezos, created specifically for smart contract developers.
- - [TzKT](https://github.com/baking-bad/tzkt) - An advanced Tezos blockchain explorer based on its own open-source indexer with built-in performant API.
+ - [Better Call Dev](https://better-call.dev/) - Smart contract meta-explorer for Tezos, created specifically for smart contract developers.
+ - [TzKT](https://tzkt.io/) - An advanced Tezos blockchain explorer based on its own open-source indexer with built-in performant API.
  - [Atomex](https://atomex.me/) - Hybrid exchange based on atomic swap technology and multicurrency HD wallet.
  - Many of our other infrastructure projects for developers and users can be found [here](https://baking-bad.org/docs).
 
@@ -37,7 +37,7 @@ Actively participate in CASI with the best results. By participating in the NyС
 
  - [GitHub](https://github.com/baking-bad)
  - [Twitter](https://twitter.com/TezosBakingBad)
- - [Telegram](https://t.me/baking_bad_chat)
+ - [Telegram](https://t.me/MisterWalker)
  - [Slack](https://tezos-dev.slack.com/archives/CV5NX7F2L)
  - [Medium](https://medium.com/@_MisterWalker_)
  - [YouTube](https://www.youtube.com/channel/UCg-jUk-6MVEMSZ4Qhfrt40Q)
