@@ -27,7 +27,7 @@ Our diverse 40 person team, comprised of experienced engineers and protocol expe
 | Alexander Semenyuk    | Protocol Team Lead |  Project lead for Nucypher  |
 | Viktor Bunin     | Protocol Specialist |   Protocol Relations lead for NuCypher  |
 | Alex Mapley    | Protocol Engineer |   Engineering lead for NuCypher  |
-| Christian Kaczmarczyk    | Business Development |   Sales lead for NuCypher  |
+| Evan Weiss    | Business Development |   Sales lead for NuCypher  |
 
 
 ## Our Architecture
