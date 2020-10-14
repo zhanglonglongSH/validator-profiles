@@ -8,7 +8,7 @@ Use your judgement in selecting a provider.**
 The following staking pools and node infrastructure providers support the NuCypher Network (alphabetical order):
 * [Anonstake](./profiles/Anonstake)
 * [Baking Bad](./profiles/Baking%20Bad)
-* [bisontrails](./profiles/bisontrails)
+* [BisonTrails](./profiles/BisonTrails)
 * [BitCat](./profiles/BitCat)
 * [block42](./profiles/block42)
 * [Chainflow](./profiles/Chainflow)
