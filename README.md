@@ -6,6 +6,7 @@ Providers have not been vetted or endorsed by the core development team.
 Use your judgement in selecting a provider.**
 
 The following staking pools and node infrastructure providers support the NuCypher Network (alphabetical order):
+* [Ankr](./profiles/Ankr)
 * [Anonstake](./profiles/Anonstake)
 * [Baking Bad](./profiles/Baking%20Bad)
 * [bisontrails](./profiles/bisontrails)
