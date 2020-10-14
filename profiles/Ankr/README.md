@@ -28,9 +28,9 @@ to providing secure and robust infrastructure for blockchain and Web3 technologi
 | Chandler Song    | Founder/CEO        | Founder of Ankr               |
 | Ryan Fang        | Founder/COO        | Founder of Ankr               |
 | Stanley Wu       | Founder/CTO        | Founder of Ankr               |
-| Flavian Manea    | Head of Blockchain | Protocol lead for NuCypher    |
-| Alexandru Filip  | Protocol Engineer  | Engineering lead for NuCypher |
-| Nima Beheshtian  | Head of Sales      | Sales lead for NuCypher       |
+| Flavian Manea    | Head of Blockchain | Protocol lead                 |
+| Alexandru Filip  | Protocol Engineer  | Engineering lead              |
+| Nima Beheshtian  | Head of Sales      | Sales lead                    |
 
 ## Our Architecture
 
