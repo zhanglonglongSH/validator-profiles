@@ -9,7 +9,7 @@ The following staking pools and node infrastructure providers support the NuCyph
 * [Ankr](./profiles/Ankr)
 * [Anonstake](./profiles/Anonstake)
 * [Baking Bad](./profiles/Baking%20Bad)
-* [bisontrails](./profiles/bisontrails)
+* [BisonTrails](./profiles/BisonTrails)
 * [BitCat](./profiles/BitCat)
 * [block42](./profiles/block42)
 * [Chainflow](./profiles/Chainflow)

@@ -24,10 +24,10 @@ Our diverse 40 person team, comprised of experienced engineers and protocol expe
 | ---------------  | ------- | ---------------------------- |
 | Aaron Henshaw      | Founder/CTO     | Co-Founder of Bison Trails  |
 | Joe Lallouz   | Founder/CEO     | Co-Founder of Bison Trails      |
-| Alexander Semenyuk    | Protocol Team Lead |  Project lead for Nucypher  |
-| Viktor Bunin     | Protocol Specialist |   Protocol Relations lead for NuCypher  |
-| Alex Mapley    | Protocol Engineer |   Engineering lead for NuCypher  |
-| Christian Kaczmarczyk    | Business Development |   Sales lead for NuCypher  |
+| Alexander Semenyuk    | Protocol Team Lead |  Project Lead  |
+| Viktor Bunin     | Protocol Specialist |   Protocol Relations Lead  |
+| Alex Mapley    | Protocol Engineer |   Engineering Lead  |
+| Evan Weiss    | Business Development |   Sales Lead  |
 
 
 ## Our Architecture
