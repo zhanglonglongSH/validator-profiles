@@ -1,11 +1,11 @@
 ---
-Name: Figment Networks
-Email: contact@figment.network
+Name: Figment
+Email: support@figment.io
 Telegram: @claymenzel
 Discord: @claymenzel#0569
 ---
 
-# Figment Networks
+# Figment
 
 Your Trusted Staking Partner: Offering institutional grade infrastructure, software, and governance solutions for networks, 
 token investors, and enterprise clients.
@@ -40,16 +40,16 @@ Original testnet participant and strong relationships with the core Nucypher tea
 
 Have questions? You can reach us:
 
-- Email: contact@figment.network
+- Email: support@figment.io
 
 
 ### Website
 
-https://figment.network/
+https://figment.io/
 
-https://figment.network/networks/nucypher/
+https://figment.io/protocols/nucypher/
 
-At Figment Networks our mission is to support the wider adoption, growth and long term success of stake based protocols. 
+At Figment our mission is to support the wider adoption, growth and long term success of stake based protocols. 
 This is Figment’s unique approach to Proof of Stake: we provide not just enterprise-grade delegation services to token holders,
 we build open source software such as the Hubble staking explorer, real world compliance & reporting tools, and actively 
 participate in community & governance.
