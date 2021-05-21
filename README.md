@@ -9,7 +9,6 @@ The following staking pools and node infrastructure providers support the NuCyph
 * [Ankr](./profiles/Ankr)
 * [BisonTrails](./profiles/BisonTrails)
 * [Figment](./profiles/Figment)
-* [HashQuark](./profiles/HashQuark)
 * [InfStones](./profiles/InfStones)
 * [P2PValidator](./profiles/P2PValidator)
 * [Staked](./profiles/Staked)
