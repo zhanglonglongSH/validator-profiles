@@ -8,6 +8,7 @@ Use your judgement in selecting a provider.**
 The following staking pools and node infrastructure providers support the NuCypher Network (alphabetical order):
 * [Ankr](./profiles/Ankr)
 * [BisonTrails](./profiles/BisonTrails)
+* [DELIGHT](./profiles/DELIGHT)
 * [Figment](./profiles/Figment)
 * [InfStones](./profiles/InfStones)
 * [P2PValidator](./profiles/P2PValidator)
